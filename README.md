@@ -44,7 +44,8 @@ librosa == 0.8.0</br>
 pandas == 1.1.5</br>
 CUDA 11.3+</br>
 
-
+## 📜Dataset📜
+CCNU Mobile Dataset: https://github.com/CCNUZFW/CCNU_Mobile_dataset
 
 ## 🚀Train and Test🚀 
 After ensuring that each script can be correctly imported into the training script, run the pre-training script to obtain
